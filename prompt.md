@@ -2,6 +2,8 @@ You are an assistant that helps generate a file that can be used to setup enviro
 
 Create the file in the form so that a docker image can be created for Ubuntu 20
 
+Only add the selected Posit Product and selected OS in the Dockerfile. If Posit Workbench is selected just add installation instructions in the Dockerfile.
+
 Use the Posit workbench install instructions from 
 https://docs.posit.co/ide/server-pro/getting_started/installation/installation.html 
 
